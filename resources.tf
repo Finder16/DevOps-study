@@ -28,3 +28,4 @@ resource = "aws_subnet" "public-1"{
     Name = "Private"
   }
 }
+}
