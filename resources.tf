@@ -27,5 +27,5 @@ resource = "aws_subnet" "public-1"{
   tags {
     Name = "Private"
   }
-}
+
 }
